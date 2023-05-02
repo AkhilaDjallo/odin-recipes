@@ -30,3 +30,24 @@ header {
   height: 400px;
   width: 1200px;
 }
+
+/* Main content area */
+main {
+  background-color: #333;
+  padding: 0px;
+}
+
+/* Styles for list items */
+li a {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1.5;
+  text-decoration: none;
+}
+
+/* Styles for unordered list */
+ul {
+  list-style-type: none;
+  padding: 25px 15px;
+}
