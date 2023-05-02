@@ -16,6 +16,12 @@ The project is structured as follows:
 
   chicken.html
 
+- images/
+  brownies.jpg
+  chicken.jpg
+  hybrid.jpg
+  spaghetti.jpg
+
 - styles/
 
   index.css
@@ -30,6 +36,8 @@ spaghetti.html, brownies.html, and chicken.html: Individual recipe pages for eac
 styles/index.css: The base CSS file for the website, which includes common styles for all pages.
 
 styles/style.css: The CSS file specific to the recipe pages, which includes styles for the individual recipe pages.
+
+images/: A directory containing the image files for the recipes.
 
 README.md: This file, which provides an overview of the project and its structure.
 
