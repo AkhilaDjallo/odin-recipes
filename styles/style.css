@@ -1,0 +1,89 @@
+/* Set a base font size and font family */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+/* Define some common styles for headings */
+h1,
+h2 {
+  font-weight: bold;
+}
+
+/* Styles for page title */
+.page-title {
+  background-color: #333;
+  color: #fff;
+  font-size: 36px;
+  margin-top: 30px;
+  padding: 20px;
+}
+
+/* Styles for banner image */
+.banner {
+  height: auto;
+  margin: 30px 0;
+  width: 600px;
+}
+
+/* Styles for sections */
+section {
+  border: 1px solid #ccc;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+
+/* Styles for section headings */
+section h2 {
+  color: #333;
+  font-size: 24px;
+  padding: 0 20px;
+}
+
+/* Styles for ordered lists within sections */
+section ol {
+  list-style: decimal;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+
+section ol li {
+  color: #555;
+  font-size: 19px;
+  line-height: 1.5;
+}
+
+/* Styles for paragraphs within sections */
+section p {
+  color: #666;
+  font-size: 19px;
+  margin-bottom: 10px;
+  padding: 0 20px;
+}
+
+/* Styles for unordered lists within sections */
+section ul {
+  list-style-type: disc;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+
+section ul li {
+  color: #666;
+  font-size: 19px;
+  margin-bottom: 5px;
+}
+
+/* Styles for main button */
+main button {
+  background-color: #333;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  cursor: pointer;
+  font-size: 19px;
+  margin: 20px 0;
+  padding: 10px 20px;
+}
